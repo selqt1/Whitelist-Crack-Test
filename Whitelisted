@@ -1,0 +1,6 @@
+WhitelistIDS = {
+    [1792969429] = true,
+    [3481119178] = true,
+}
+
+return WhitelistIDS
