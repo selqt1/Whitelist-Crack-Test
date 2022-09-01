@@ -1,0 +1,5 @@
+BlacklistedIDS = {
+    [1624296668] = true,
+}
+
+return BlacklistedIDS
